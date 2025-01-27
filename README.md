@@ -1,5 +1,4 @@
-# ECTS.LuaObfuscator
-is a simple lua obfuscator written in C++
+*simple lua obfuscator written in C++*
 
  <br/>
  
